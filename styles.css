@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+}
+
+.block {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    background: gray;
+    flex-shrink: 1;
+    /*flex-grow: 1;*/
+}
+
+

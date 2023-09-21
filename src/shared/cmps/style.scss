@@ -1,0 +1,21 @@
+.my-input-wrapper{
+  //border: 1px solid darkgray;
+  border-radius: 5px;
+  width: 300px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-left: 10px;
+
+  .my-input{
+    height: 20px;
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  span{
+    color: red;
+  }
+}
